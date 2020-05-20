@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib import ticker 
 import pycountry_convert as pc
+import numpy as np
 import folium
 import branca
 from datetime import datetime, timedelta,date
